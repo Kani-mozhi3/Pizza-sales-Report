@@ -57,4 +57,4 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
   - Total orders by pizza size (small to xx-large).
 ​
 
- ### Slicers/filters for pizza category and order date to enable interactive analysis.
+
