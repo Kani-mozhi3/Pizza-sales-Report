@@ -14,3 +14,25 @@ Database: MS SQL Server (for data querying and KPI calculation)
 Visualization: Power BI (for dashboarding and storytelling)
 
 Process: ETL (Extract, Transform, Load)
+
+## 🧹 Data Cleaning & Transformation
+ - Before analysis, the raw data underwent several preprocessing steps to ensure accuracy:
+
+ - Checked for missing values and null entries.
+
+ - Standardized date and time formats for time-series analysis.
+
+ - Created new calculated columns (e.g., Total Price per order) to facilitate deeper analysis.
+
+ - Ensured data types were consistent across the SQL database.
+
+## 🗄️ SQL Analysis
+The following SQL queries were executed to extract high-level KPIs and detailed sales metrics:
+
+ - Total Revenue: Sum of the total price of all orders.
+
+ - Average Order Value: Total Revenue divided by the number of orders.
+
+ - Best/Worst Sellers: Ranked pizzas by revenue, quantity, and total orders.
+
+ - Sales Trends: Analysis by days of the week and monthly patterns.
