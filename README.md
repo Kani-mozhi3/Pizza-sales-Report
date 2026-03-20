@@ -40,24 +40,24 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
 ## 📊 Power BI Dashboard
  The Power BI dashboard connects directly to SQL Server and visualizes the main KPIs.
 
- - Key features:
+ ### Key features:
   
-  * KPI cards: total revenue, total orders, total pizzas sold, average order value, and average pizzas per order.
+ - KPI cards: total revenue, total orders, total pizzas sold, average order value, and average pizzas per order.
 
-  - Trend charts:
+  ### Trend charts:
 
-  * Daily trend of total orders by weekday.
+  - Daily trend of total orders by weekday.
 ​
 
-  * Monthly trend of total orders and revenue over the year.
+  - Monthly trend of total orders and revenue over the year.
 ​
 
- - Distribution visuals:
+ ### Distribution visuals:
 
-  * Total orders by pizza category (classic, supreme, veggie, chicken, etc.).
+  - Total orders by pizza category (classic, supreme, veggie, chicken, etc.).
 ​
 
-  * Total orders by pizza size (small to xx-large).
+  - Total orders by pizza size (small to xx-large).
 ​
 
- - Slicers/filters for pizza category and order date to enable interactive analysis.
+ ### Slicers/filters for pizza category and order date to enable interactive analysis.
