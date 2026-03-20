@@ -36,3 +36,28 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
  - Best/Worst Sellers: Ranked pizzas by revenue, quantity, and total orders.
 
  - Sales Trends: Analysis by days of the week and monthly patterns.
+
+## 📊 Power BI Dashboard
+ The Power BI dashboard connects directly to SQL Server and visualizes the main KPIs.
+
+ - Key features:
+  
+  * KPI cards: total revenue, total orders, total pizzas sold, average order value, and average pizzas per order.
+
+  - Trend charts:
+
+  * Daily trend of total orders by weekday.
+​
+
+  * Monthly trend of total orders and revenue over the year.
+​
+
+ - Distribution visuals:
+
+  * Total orders by pizza category (classic, supreme, veggie, chicken, etc.).
+​
+
+  * Total orders by pizza size (small to xx-large).
+​
+
+ - Slicers/filters for pizza category and order date to enable interactive analysis.
