@@ -1,4 +1,4 @@
-# Pizza-sales-Report
+
 
 ## 🍕 Pizza Sales Analysis Project
   This project provides a comprehensive end-to-end data analytics solution, transforming raw pizza sales data into actionable business insights. The process involves data cleaning, SQL-based analysis, and dynamic visualization using Power BI to track key performance indicators (KPIs) and sales trends.
@@ -47,10 +47,7 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
   ### Trend charts:
 
   - Daily trend of total orders by weekday.
-​
-
-  - Monthly trend of total orders and revenue over the year.
-​
+​​
 
  ### Distribution visuals:
 
