@@ -57,15 +57,6 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
   - Total orders by pizza size (small to xx-large).
 
 
-## 🛠️ Tech Stack
- - SQL Server – data storage, cleaning, and analysis with SQL.
-
- - Power BI Desktop – data modeling and interactive dashboard creation.
-​
-
- - Excel/CSV – original dataset source files before loading into SQL Server.
-​
-
 ## 🚀 How to Run
  - Import the pizza sales CSV files into SQL Server tables.
 ​
