@@ -69,4 +69,19 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
  - Refresh the data to load the latest results into the dashboard  
 ​
 
+## 🏆 Top & Bottom Performers
+This section of the dashboard identifies the highest and lowest performing products to help with menu optimization and inventory planning.
 
+### 🔥 Top 5 Best Sellers
+By Revenue: The Thai Chicken Pizza leads with the highest contribution to total sales.
+
+By Quantity: The Classic Deluxe Pizza is the most frequently sold item.
+
+By Total Orders: The Classic Deluxe Pizza also appears in the highest number of unique transactions.
+
+### ❄️ Bottom 5 Worst Sellers
+By Revenue: The Brie Carre Pizza generates the least revenue for the store.
+
+By Quantity: The Brie Carre Pizza has the lowest sales volume.
+
+By Total Orders: The Brie Carre Pizza is the least included item in customer orders.
