@@ -57,6 +57,10 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
   - Total orders by pizza size (small to xx-large).
 
 
+    <img width="1009" height="581" alt="Report" src="https://github.com/user-attachments/assets/72a2bea9-8a84-4f68-872b-066d1a70cf4a" />
+
+
+
 ## 🚀 How to Run
  - Import the pizza sales CSV files into SQL Server tables.
 ​
@@ -70,7 +74,7 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
 ​
 
 ## 🏆 Top & Bottom Performers
-This section of the dashboard identifies the highest and lowest performing products to help with menu optimization and inventory planning.
+The dashboard identifies the highest and lowest performing products to help with menu optimization and inventory planning.
 
 ### 🔥 Top 5 Best Sellers
 By Revenue: The Thai Chicken Pizza leads with the highest contribution to total sales.
@@ -85,3 +89,7 @@ By Revenue: The Brie Carre Pizza generates the least revenue for the store.
 By Quantity: The Brie Carre Pizza has the lowest sales volume.
 
 By Total Orders: The Brie Carre Pizza is the least included item in customer orders.
+
+
+<img width="1022" height="587" alt="Top-bottom" src="https://github.com/user-attachments/assets/6c55f756-59d5-45bc-91d6-01a2f1a9763b" />
+
