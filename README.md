@@ -57,7 +57,7 @@ The following SQL queries were executed to extract high-level KPIs and detailed 
   - Total orders by pizza size (small to xx-large).
 
 
-    <img width="1009" height="581" alt="Report" src="https://github.com/user-attachments/assets/72a2bea9-8a84-4f68-872b-066d1a70cf4a" />
+     <img width="1009" height="581" alt="Report" src="https://github.com/user-attachments/assets/72a2bea9-8a84-4f68-872b-066d1a70cf4a" />
 
 
 
